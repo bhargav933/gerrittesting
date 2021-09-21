@@ -1,2 +1,2 @@
-p=tuleap-gerrit/**
-b^**
+p=tuleap-gerrit/Devops_test
+b^master
